@@ -62,6 +62,6 @@ public class MainActivity extends ActionBarActivity {
     public void onClickMine(View view)
     {
 
-        textView.setText("버튼이 눌렸습니다.");
+        textView.setText("버튼이 눌렸습니다. 피쳐1 테스트");
     }
 }
